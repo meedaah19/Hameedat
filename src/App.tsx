@@ -134,7 +134,7 @@ function App() {
         <section className="hero section-wrap" id="home">
           <div className="hero-copy">
             <div className="eyebrow"><span className="availability-dot" /> FULL-STACK DEVELOPER <span className="eyebrow-line" /></div>
-            <h1>Thoughtful products.<br />Built <em>from the inside out.</em></h1>
+            <h1>I don't just build what's visible.<br /><em>I build what makes it work.</em></h1>
             <p className="hero-intro">
               I’m Hameedat, a full-stack developer creating clear, responsive web experiences and the systems behind them.
             </p>
