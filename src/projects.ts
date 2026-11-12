@@ -62,7 +62,7 @@ export const projects = [
     stack: ['EJS', 'Express', 'Node.js', 'API'],
     image: 'https://raw.githubusercontent.com/meedaah19/Hameedat-Projects/main/images/Capture%2017.JPG',
     imageAlt: 'UV Index Checker project preview',
-    href: 'https://capstone-project2-sjqz.onrender.com',
+    href: 'https://github.com/meedaah19/capstone-project2',
     kind: 'Web application',
   },
   {
@@ -106,18 +106,8 @@ export const projects = [
     stack: ['HTML', 'CSS', 'JavaScript'],
     image: 'https://raw.githubusercontent.com/meedaah19/Hameedat-Projects/main/images/Capture%2021.jpg',
     imageAlt: 'Task Manager project preview',
-    href: 'https://meedaah19.github.io/task-manager/',
+    href: 'https://github.com/meedaah19/task-manager',
     kind: 'Web application',
   },
-  {
-    number: '11',
-    name: 'Shopping Cart',
-    type: 'E-commerce interface',
-    description: 'A React shopping experience with cart state managed through Redux.',
-    stack: ['React', 'Redux', 'JavaScript'],
-    image: 'https://raw.githubusercontent.com/meedaah19/Hameedat-Projects/main/images/Capture%20%2004.JPG',
-    imageAlt: 'Shopping Cart project preview',
-    href: 'https://shopping-cart-with-redux-eta.vercel.app/',
-    kind: 'Web application',
-  },
+ 
 ]
