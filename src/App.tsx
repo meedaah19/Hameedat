@@ -146,7 +146,7 @@ function App() {
           </div>
           <div className="hero-visual">
             <div className="portrait-frame">
-              <img src="/hameedat-portrait.jpeg" alt="Hameedat Oyewopo" />
+              <img src="/hameedat-headshot.jpeg" alt="Hameedat Oyewopo" />
             </div>
             <div className="portrait-note"><span>HAMEEDAT OYEWOPO</span><span>DEVELOPER / BUILDER</span></div>
             <div className="hero-stamp" aria-hidden="true"><span>DESIGN</span><span>THINK</span><span>BUILD</span><ArrowDown size={15} /></div>
