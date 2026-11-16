@@ -106,7 +106,7 @@ export const projects = [
     stack: ['HTML', 'CSS', 'JavaScript'],
     image: 'https://raw.githubusercontent.com/meedaah19/Hameedat-Projects/main/images/Capture%2021.jpg',
     imageAlt: 'Task Manager project preview',
-    href: 'https://github.com/meedaah19/task-manager',
+    href: 'https://meedaah19.github.io/task-manager/',
     kind: 'Web application',
   },
  
