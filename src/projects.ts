@@ -1,5 +1,16 @@
 export const projects = [
   {
+    number: '00',
+    name: 'Ecobridge',
+    type: 'Sustainable living platform',
+    description: 'A platform that connects users with eco-friendly products, services, and community initiatives.',
+    stack: ['React', 'Node.js', 'Supabase', 'Express', 'REST APIs'],
+    image: '/eco-bridge.png',
+    imageAlt: 'Ecobridge project preview',
+    href: 'https://ecobridge-sigma.vercel.app/',
+    kind: 'Full-stack product',
+  },
+  {
     number: '01',
     name: 'FinSight',
     type: 'Smart expense tracker',
