@@ -1,6 +1,6 @@
 export const projects = [
   {
-    number: '00',
+    number: '01',
     name: 'Ecobridge',
     type: 'Sustainable living platform',
     description: 'A platform that connects users with eco-friendly products, services, and community initiatives.',
@@ -11,7 +11,7 @@ export const projects = [
     kind: 'Full-stack product',
   },
   {
-    number: '01',
+    number: '02',
     name: 'FinSight',
     type: 'Smart expense tracker',
     description: 'A full-stack finance dashboard for managing income, expenses, budgets, and spending patterns.',
@@ -22,7 +22,7 @@ export const projects = [
     kind: 'Full-stack product',
   },
   {
-    number: '02',
+    number: '03',
     name: 'FinSight Backend',
     type: 'Finance APIs',
     description: 'Backend services for authentication and managing financial records, budgets, and insights.',
@@ -33,7 +33,7 @@ export const projects = [
     kind: 'Backend engineering',
   },
   {
-    number: '03',
+    number: '04',
     name: 'Agro Smart Climate',
     type: 'Climate-aware agriculture',
     description: 'A responsive farming platform with location-based weather data and tools for crop information.',
@@ -44,7 +44,7 @@ export const projects = [
     kind: 'Full-stack product',
   },
   {
-    number: '04',
+    number: '05',
     name: 'Microservices Blog',
     type: 'Event-driven platform',
     description: 'A five-service blog platform with event-based communication and a CQRS-style query service.',
@@ -55,7 +55,7 @@ export const projects = [
     kind: 'Distributed systems',
   },
   {
-    number: '05',
+    number: '06',
     name: 'Pasch Alumni',
     type: 'Alumni community',
     description: 'A community platform for alumni profiles, connections, updates, and shared events.',
@@ -66,7 +66,7 @@ export const projects = [
     kind: 'Community platform',
   },
   {
-    number: '06',
+    number: '07',
     name: 'UV Index Checker',
     type: 'Weather utility',
     description: 'A web tool that checks UV conditions using a weather API.',
@@ -77,7 +77,7 @@ export const projects = [
     kind: 'Web application',
   },
   {
-    number: '07',
+    number: '08',
     name: 'Blog Website',
     type: 'Publishing app',
     description: 'A blog application built with server-rendered pages and a Node.js backend.',
@@ -88,7 +88,7 @@ export const projects = [
     kind: 'Web application',
   },
   {
-    number: '08',
+    number: '09',
     name: 'Book Reviews',
     type: 'Review platform',
     description: 'A place to browse and share book reviews, built with EJS and Node.js.',
@@ -99,7 +99,7 @@ export const projects = [
     kind: 'Web application',
   },
   {
-    number: '09',
+    number: '10',
     name: 'Disease Tracker',
     type: 'Health data interface',
     description: 'A React interface that retrieves and displays disease information from an API.',
@@ -110,7 +110,7 @@ export const projects = [
     kind: 'Web application',
   },
   {
-    number: '10',
+    number: '11',
     name: 'Task Manager',
     type: 'Productivity tool',
     description: 'A lightweight task management website built with HTML and JavaScript.',
